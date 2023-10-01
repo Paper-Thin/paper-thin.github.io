@@ -4,13 +4,13 @@ body {
     font-family: Arial, sans-serif;
     background: linear-gradient(135deg, #FFA500, #FFFFFF);
     background-attachment: fixed;
-    background-size: 200% 200%; /* Increase the background size */
+    background-size: 200% 200%;
     overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Center vertically within the viewport */
-    animation: gradientAnimation 10s infinite; /* Add animation */
+    height: 100vh;
+    animation: gradientAnimation 10s infinite;
 }
 
 .container {
